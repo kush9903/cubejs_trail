@@ -1,0 +1,14 @@
+{
+  "name": "angular-dashboard-with-material-ui",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.27.5",
+  "devDependencies": {
+    "@cubejs-backend/mongobi-driver": "^0.27.5",
+    "@cubejs-backend/server": "^0.27.6"
+  }
+}
